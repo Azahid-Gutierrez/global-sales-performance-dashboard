@@ -5,7 +5,7 @@ The goal of the dashboard is to explore overall performance metrics, regional tr
 
 ---
 
-## 📊 Dataset
+##  Dataset
 **Source:** Global Superstore (public dataset used on Kaggle & Tableau community)
 
 ### **Key fields used**
@@ -20,7 +20,7 @@ The goal of the dashboard is to explore overall performance metrics, regional tr
 
 ---
 
-## 📈 Tableau Visualizations
+##  Tableau Visualizations
 The Tableau workbook **Global Sales Performance.twb** includes the following KPIs & dashboard components:
 
 ### **KPIs**
@@ -36,7 +36,7 @@ The Tableau workbook **Global Sales Performance.twb** includes the following KPI
 
 ---
 
-## 🛠️ What I Did
+##  What I Did
 - Imported the *Global Superstore* dataset into Tableau  
 - Built **3 KPI cards**  
 - Created visuals for category sales, country comparison, and monthly trends  
@@ -46,7 +46,7 @@ The Tableau workbook **Global Sales Performance.twb** includes the following KPI
 
 ---
 
-## 📁 Files
+##  Files
 - **Global Sales Performance.twb** – Tableau workbook  
 - **screenshot_final_dashboard.png** – Dashboard preview  
 
